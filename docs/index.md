@@ -12,3 +12,4 @@
 
 ## 6. Eu preciso de um óculos de natação
 
+## 7. Aonde eu vejo a temperatura da água?
