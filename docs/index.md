@@ -1,5 +1,8 @@
 # FAQ da Nadada Clandestina
 
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/f5351663-9bfb-4fb4-8b4f-f97e12901983" />
+
+
 ## 1. O que é a Nadada Clandestina?
 
 ## 2. Quem são os Clandestinos?
