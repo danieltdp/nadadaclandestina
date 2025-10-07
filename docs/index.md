@@ -13,3 +13,5 @@
 ## 6. Eu preciso de um óculos de natação
 
 ## 7. Aonde eu vejo a temperatura da água?
+
+Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-4 e RJ-3, campos "Temperatura Média da Água"
