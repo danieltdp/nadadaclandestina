@@ -29,6 +29,20 @@ Muita visibilidade, pouco conforto
  - [Hammerhead Swedish Pro Mirror](https://www.amazon.com.br/Hammerhead-Swedish-Nata%C3%A7%C3%A3o-Unissex-Espelhado/dp/B07G4FCLHS/ref=dp-upsell-widget_d_sccl_2_2/132-7684541-9921002?pd_rd_w=rHCnm&content-id=amzn1.sym.7d7a1c4f-662f-4003-807c-1e4dd398ce29&pf_rd_p=7d7a1c4f-662f-4003-807c-1e4dd398ce29&pf_rd_r=GSF4PAERFD8EG0THSEWQ&pd_rd_wg=GaijU&pd_rd_r=1f176b54-dcb3-4092-80fb-0f0201f2e28c&pd_rd_i=B07G4FCLHS&th=1). Tem opções não espelhadas.
  - [Arena Swedix](https://www.amazon.com.br/arena-92398-75-NS-Oculos-Swedix/dp/B006L8W972/ref=sr_1_4_pp?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1BA8UQ99K6ROW&dib=eyJ2IjoiMSJ9.VEc1XbPDY99lHzX9_dsVaJhm1VW_R5UY_mlePV4HdepIKkevfgJZrd_MGZi0GWbtPBSQFAEEkrHgDhiZEVGeKehc9M-OQM_diuLJM0kR8thcVmatJ9954JlzE_q1L-LSXZgxfD5Ok7NonoO7kXRtHDYkzuvzwImy0SoJdjolAfIynmGLbkERJUTGES6ScCFz8ENREgLMa0W9Xend8lNYE281xMeeAd3uXEM38To9TZXn9BLJgtkCbPMpblqS-erIgVMufeeJxRuMj7V9eNEmduDIbfEkSq8l-Bp8VxvBWp0.td9aDjqcyOamhvQiKLpw1-wjJbBufK9AhdsItQfWhVw&dib_tag=se&keywords=arena%2Boculos&qid=1759860280&s=sports&sprefix=arena%2Boculo%2Csporting%2C326&sr=1-4&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d&th=1&psc=1). Tem um "vinco" no meio da lente que acumula água na navegação. Em compensação a lente já é inclinada pra frente. Só testando para saber se é para você
  - [Decathlon Sueco 900](https://www.decathlon.com.br/oculos-de-natacao-adulto-suecos-900-ajustavel-vermelho-8547673-nabaiji/p)
+ - [Tyr Socket Rocket](https://www.amazon.com.br/TYR-Socket-Rockets-corrida-met%C3%A1licos/dp/B001MWRRMO?th=1&psc=1)
+
+### Lente flexível
+
+Óculos com lente maleável, bons para não machucar naquele momento de contato físico
+
+- [Track and Field](https://www.tf.com.br/oculos-de-natacao-preto/p)
+- [Tyr Nest Pro](https://www.amazon.com.br/TYR-LGNST-Nest-Pro-%C3%93culos/dp/B001MWRRVA?th=1)
+
+### Correção de grau
+
+Link na amazon americana. Você escolhe o grau de cada olho nos campos onde costuma selecionar tamanho, cor, voltagem etc
+
+- [Speedo Optical Vanquisher](https://www.amazon.com/Speedo-Vanquisher-Optical-Goggle-Smoke/dp/B07H3LJ23W?pd_rd_w=Xc0BD&content-id=amzn1.sym.52548f63-aa6f-47d3-941a-d69d44966d80&pf_rd_p=52548f63-aa6f-47d3-941a-d69d44966d80&pf_rd_r=GPVD8YW1522527Y0HNQ2&pd_rd_wg=az862&pd_rd_r=f8ee8bb2-9c34-43c2-a1d8-0def75d687ca&pd_rd_i=B07H3LJ23W&ref_=pd_bap_d_grid_rp_hxwhrp_sspa_dk_bia_0_1_ec_pd_nav_hcs_rp_3_i&th=1)
 
 ## 7. Aonde eu vejo a temperatura da água?
 
