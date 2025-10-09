@@ -2,22 +2,42 @@
 
 <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/f5351663-9bfb-4fb4-8b4f-f97e12901983" />
 
+## 1. Aonde eu vejo a temperatura da água?
 
-## 1. O que é a Nadada Clandestina?
+Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-4 e RJ-3, campos "Temperatura Média da Água"
 
-## 2. Quem são os Clandestinos?
+### Alertas importantes sobre temperatura:
 
-## 3. Quais são as atidades?
+- A temperatura não é homogênea. Ás vezes está uma coisa na boia e outra na praia.
+- A temperatura não é homogênea. Ao longo o treino ela pode mudar e muito!
+- É possível sim nadar sem roupa com águas a 16 graus. Não é para todo mundo e requer alguma prática.
+- Quem nada forte aguenta mais tempo
+- Usar duas toucas ajuda bastante
+- Hipotermia por acontecer **depois** de você sair da água. Seu core continua "doando" calor para as extremidades e esfriando
+- Estar bem alimentado ajuda
 
-## 4. Temos Regras?
+## 2. Eu preciso de uma roupa de neoprene
 
-## 5. Eu preciso de uma roupa de neoprene
+- A roupa que dá mais performance é a completa. Manga longa e perna comprida
+- Muita gente usa sem manga por causa da mobilidade
+- As roupas caras tem materiais especiais nessas regiões para aumentar a flexiblidade
+- A roupa mais em conta é a do Nemo. Ele faz sob medida. ☎️ 21 2241-8040 | 📱21 97307-2916
+- Quase ninguém usa, mas os macaquinhos (perna curta) são muito práticos para botar e tirar e úteis no dia a dia
+- Roupa ajuda muito no desempenho. O quando ajuda depende da sua técnica: por exemplo, se você nada com as pernas afundadas a roupa ajudará mais
+
+### Dicas para o uso das roupas
+
+- Coloque um saco plástico no pé para vestir. Ela vai entrar mais fácil!
+- Use vaselina (ou análogo), **no mínimo** em volta de todo o pescoço. Tem gente que assa em outros pontos
+- Não guarde a roupa do avesso, desgasta a borracha
+- Se puder, guarde num cabide grosso, como os de terno. Isso reduz a pressão num ponto específico da roupa
+
 
 ### Opções fora do Brasil
 
 [Synergy na Amazon.com](https://www.amazon.com/Synergy-Triathlon-Wetsuit-2mm-Sleeveless/dp/B0DTMG7Y5S/ref=sr_1_24?crid=2203TSMC4S2EB&dib=eyJ2IjoiMSJ9.CH31ayeioobOMHoSlZ8FWLXF2XJ_pGk-kujCS8MEmVDgRXd347ahdhwOZeUgNnbbLo1x3PCfMOisfZTzlBL0jehPtP_CMweUUXFypP0g6lk2iAB1WsJoibficTaCFUs2ICvCSnoMys6Y6z6TEj6aJzk2L1zCGdjpgQ2pMhfvTI-ObPB-_9WTgbSKAPaLzW08jpwEyLIb2yBJFWGCrfGmTKU01Nmvb4r79xTa8GWAfhvVtdgYtdAplzJ8iPkQQtU5nGlfuHWlQKbp9MjfNPAtg4sHxh6oNpjaJ4saH4M_VGI.4U5iEOGrm-LNYnrwq5XPiyCf-_ZZ-hcMBw9G88CMesI&dib_tag=se&keywords=synergy+tri+suit&qid=1759859896&sprefix=synergy+tr%2Caps%2C370&sr=8-24)
 
-## 6. Eu preciso de um óculos de natação
+## 3. Eu preciso de um óculos de natação
 
 Óculos existem de vários tipos
 
@@ -44,6 +64,13 @@ Link na amazon americana. Você escolhe o grau de cada olho nos campos onde cost
 
 - [Speedo Optical Vanquisher](https://www.amazon.com/Speedo-Vanquisher-Optical-Goggle-Smoke/dp/B07H3LJ23W?pd_rd_w=Xc0BD&content-id=amzn1.sym.52548f63-aa6f-47d3-941a-d69d44966d80&pf_rd_p=52548f63-aa6f-47d3-941a-d69d44966d80&pf_rd_r=GPVD8YW1522527Y0HNQ2&pd_rd_wg=az862&pd_rd_r=f8ee8bb2-9c34-43c2-a1d8-0def75d687ca&pd_rd_i=B07H3LJ23W&ref_=pd_bap_d_grid_rp_hxwhrp_sspa_dk_bia_0_1_ec_pd_nav_hcs_rp_3_i&th=1)
 
-## 7. Aonde eu vejo a temperatura da água?
+## 4. Preciso de um Pé de Pato
 
-Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-4 e RJ-3, campos "Temperatura Média da Água"
+## 5. O que é a Nadada Clandestina?
+
+## 6. Quem são os Clandestinos?
+
+## 7. Quais são as atidades?
+
+## 8. Temos Regras?
+
