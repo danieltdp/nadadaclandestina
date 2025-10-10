@@ -5,11 +5,11 @@
 
 # DICAS
 
-### 1. Aonde eu vejo a temperatura da água?
+### Aonde eu vejo a temperatura da água?
 
 Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-4 e RJ-3, campos "Temperatura Média da Água"
 
-### 2. Temperatura da água
+### Temperatura da água
 
 - No inverno em geral a água é **quente**
 - A temporada de águas frias costuma começar em outubro
@@ -27,14 +27,14 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 - Use duas toucas de natação. Perdemos muito calor pela cabeça! Isso não vai tirar o desconforto da água gelada na pela (veja o tópico anterior), mas reduz a perda de calor
 - Se possível, resista ao impulso de tirar os braços e a cabeça da água nos momentos iniciais. Se você não ficar com os membros na água, você só vai retardar a adaptação
 
-### 3. Uso de neoprene
+### Uso de neoprene
 
 - Coloque um saco plástico no pé para vestir. Ela vai entrar mais fácil!
 - Use vaselina (ou análogo), **no mínimo** em volta de todo o pescoço. Tem gente que assa em outros pontos
 - Não guarde a roupa do avesso, desgasta a borracha
 - Se puder, guarde num cabide grosso, como os de terno. Isso reduz a pressão num ponto específico da roupa
 
-### 4. Uso de óculos
+### Uso de óculos
 
 - Se a lente estiver com gordura, o óculos vai embaçar mais
 - Lentes espelhadas são boas para dia de sol forte, mas podem ficar escuras para dias nublados
@@ -50,7 +50,7 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 - Se a película danificar e ficar fosca, você sempre pode comprar outro... Mas, se você quer "salvar" o óculos, use um pano de microfibra para esfregar a camada que está semi-decomposta e pegajosa. Seu óculos não tem mais anti-embaçante, mas se você mantiver ele sem gordura e sempre limpo, vai dar tudo certo
 - Lavar o óculos na véspera do treino, de noite, por algum motivo misterioso, ajuda ele a não embaçar 
 
-### 5. Treino
+### Treino
 
 - Nadar do lado de uma pessoa não é fazer o mesmo treino que ela! Fazer o mesmo treino que alguém e estar no mesmo nível de esforço. Não nade em A2+ atrás de alguém que está em A1. Faça o SEU treino e você progredirá mais rápido
 - Nadar devagar de maneira eficiente é fundamental e você só vai aprender se... nadar devagar. Veja a dica anterior. Eficiência vence potência.
@@ -59,7 +59,7 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 - Cotovelo alto dentro da água é a lei no 1.
 - Nadar certo pode ser desafiador porque seus músculos usados para nadar errado estão treinados e os que você precisa para nadar certo não estão! Nade mais devagar, **mas não saia da posição**! Deixa o coleguinha ir embora e siga treinando a técnica. Faça também fortalecimento para preparar esses músculos destreinados
 
-### 6. Relógio
+### Relógio
 
 - O GPS é uma conexão de rádio entre seu relógio e os satélites. Ele PRECISA achar os satélites antes do treino começar. Conecte antes de entrar na água. Isso pode melhorar o seu mapinha
 - O GPS perde o sinal **toda vez que o relógio entra na água**. Se você ficar parado muito tempo, ele se perde mais ainda e vale a pena tirar ele da água um pouco antes de reiniciar o treino. Isso pode melhorar seu mapinha
@@ -69,7 +69,7 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 - Natação em piscina não usa GPS, é outro esquema. Usar a opção de piscina no mar ou o contrário derá errado com 100% de certeza
 - O melhor mapinha você consegue colocando o relógio dentro da touca, pois o sinal do GPs fica firme o tempo todo. **Mas atenção** para não perder ele ao tirar a touca!!!! Faça por sua própia conta e risco
 
-### 7. Boias
+### Boias
 
 - Boa boa é boia leve, bem cheia e hidrdinâmica
 - Encha ela bem porque no contato com a água mais fria o ar vai reduzir de volume e ela vai murchar um pouco
@@ -77,12 +77,12 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 - Não coloque na parte estanque coisas que você vai precisar durante o treino/prova. No abre e fecha vai entrar água e ela vai começar a fazer mais arrasto
 - Boia, assim como roupa, são mecanismos de segurança. Use e abuse delas para ficar mais seguro
 
-### 8. Toucas
+### Toucas
 
 - No mar você precisa estar visível. **NUNCA** use uma touca preta! Escolha cores com bom contraste contra o mar e o céu!
 - Cubra metade de ordelha com a touca. Reduz o arrasto um pouquinho e mantém a sua audição afinada para ouvir qualquer coisa
 
-### 9. Alimentação intratreino
+### Alimentação intratreino
 
 - O gel é o clássico. Mas ele não tem água.
 - [Carbup](https://www.mercadolivre.com.br/carb-up-gel-super-formula-10-saches-de-30g-cada-probiotica-sabormorango-silvestre/p/MLB27306465?pdp_filters=item_id:MLB4622784368) é um dos mais baratos do mercado
@@ -103,7 +103,7 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 - Evite a paçoca pois tem muita gordura e atrapalha a absorção do carboidrato. Mas é ótima ao final!
 - A opção mais barata é a maltodextrina, mas tem gosto ruim e é apenas um tipo de carboidrato. Vale a pena misturar com suco de uva 100% natural. Fica bom, tem dois tipos de carboidrato e sai barato!
 
-### 10. Mar
+### Mar
 
 - Na véspera de uma frente fia, a pressão cai, a temperatura esquenta e os ventos aumentam. É bem comum o mar ficar mexido
 - Logo após a entrada da frente fria, o mar costuma baixar
@@ -112,7 +112,7 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 - É muito comum perto das 10 o vento mudar de direção e aumentar. O mar piora nessas momentos
 - Dia de chuva não é um dia ruim para nadar. Você já vai se molhar de qualquer modo! 
 
-### 11. Animais marinhos
+### Animais marinhos
 
 - Para nadar no mar, você precisará aceitar que está num ambiente selvagem. Cada um lida com isso de uma forma diferente
 - Salpas não queimam! Elas são pequena "gelecas" redondas, menores que uma bola de gude
@@ -122,7 +122,7 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 
 ## Escolha do Material
 
-### 1. Eu preciso de uma roupa de neoprene
+### Eu preciso de uma roupa de neoprene
 
 - A roupa que dá mais performance é a completa. Manga longa e perna comprida
 - Muita gente usa sem manga por causa da mobilidade
@@ -135,7 +135,7 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 
 [Synergy na Amazon.com](https://www.amazon.com/Synergy-Triathlon-Wetsuit-2mm-Sleeveless/dp/B0DTMG7Y5S/ref=sr_1_24?crid=2203TSMC4S2EB&dib=eyJ2IjoiMSJ9.CH31ayeioobOMHoSlZ8FWLXF2XJ_pGk-kujCS8MEmVDgRXd347ahdhwOZeUgNnbbLo1x3PCfMOisfZTzlBL0jehPtP_CMweUUXFypP0g6lk2iAB1WsJoibficTaCFUs2ICvCSnoMys6Y6z6TEj6aJzk2L1zCGdjpgQ2pMhfvTI-ObPB-_9WTgbSKAPaLzW08jpwEyLIb2yBJFWGCrfGmTKU01Nmvb4r79xTa8GWAfhvVtdgYtdAplzJ8iPkQQtU5nGlfuHWlQKbp9MjfNPAtg4sHxh6oNpjaJ4saH4M_VGI.4U5iEOGrm-LNYnrwq5XPiyCf-_ZZ-hcMBw9G88CMesI&dib_tag=se&keywords=synergy+tri+suit&qid=1759859896&sprefix=synergy+tr%2Caps%2C370&sr=8-24)
 
-### 2. Eu preciso de um óculos de natação
+### Eu preciso de um óculos de natação
 
 Óculos existem de vários tipos
 
@@ -162,7 +162,7 @@ Link na amazon americana. Você escolhe o grau de cada olho nos campos onde cost
 
 - [Speedo Optical Vanquisher](https://www.amazon.com/Speedo-Vanquisher-Optical-Goggle-Smoke/dp/B07H3LJ23W?pd_rd_w=Xc0BD&content-id=amzn1.sym.52548f63-aa6f-47d3-941a-d69d44966d80&pf_rd_p=52548f63-aa6f-47d3-941a-d69d44966d80&pf_rd_r=GPVD8YW1522527Y0HNQ2&pd_rd_wg=az862&pd_rd_r=f8ee8bb2-9c34-43c2-a1d8-0def75d687ca&pd_rd_i=B07H3LJ23W&ref_=pd_bap_d_grid_rp_hxwhrp_sspa_dk_bia_0_1_ec_pd_nav_hcs_rp_3_i&th=1)
 
-### 3. Preciso de um Pé de Pato
+### Preciso de um Pé de Pato
 
 - [kpaloa para águas abertas](https://www.kpaloa.com/aguas-abertas) é sem dúvida a melhor (e mais cara) opção. Além de dar muita potência, **ele boia**. Isso pode te salvar muitos reais durante um caldo na arrebentação
 - [Speedo Powerfin](https://www.amazon.com.br/Nadadeira-Powerfin-Azul-Tam-Speedo/dp/B07G6BD485/ref=sr_1_6?crid=2302R0MMS3ZI7&dib=eyJ2IjoiMSJ9.McEnmd_g7OFBtJr0nMghchuB0jMvFgFdQ8SYU4DcG8PUYzbS3BWUrb0iIdNFIr-b6PYN1JeNxJftqRq9tdBZjHEBJJ2GjXpEQEnMU5zM1fODHC9j9XY2zwtNq2bN-owqli_o5-9PMmrYBWU5d3Y4_D7JhQhiMWBkKVIA4Z40KuOs-QNxzbleYZ6hTfH5AoJp2DM4TqSlmhlBiD39l8zV0tWpR-QcG9HtsxFHn9k8qMAtlcG8VTjtck-utq8SV_Ksu9TDAw7oFC-cRgt8udFnhA3QeUHQxCTqwHN66fO3xYM.tDBd4kvJmoJ9No2_mCMM7jLF23JuqA4sp6TSejk36gU&dib_tag=se&keywords=kpaloa+nadadeira&qid=1760102278&sprefix=kpa%2Caps%2C324&sr=8-6&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678) é um pé de pato mais em conta, **que não boia**, mas é bastante usado. Ele traz menos potência, mas tem uma caracaterística interessante: ajuda mais na subida da pernada do que na descida! Muitos nadadores só chutam e não puxam o pé de volta. Esse pé de pato pode ajudar a corrigir isso.
