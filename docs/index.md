@@ -112,7 +112,7 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 - Sim, existem tubarões na costa do rio de janeiro. Não conhecemos casos de ataque porque o ambiente é ecologicamente equilibrado e nós não somos alimento para tubarões!
 - Temos arraias, caranguejos, diversos peixes, inclusive rêmoras e pexes parecidos com tubarões (como o [bijupirá](https://www.mundoecologia.com.br/animais/bijupira-curiosidades-e-fatos-interessantes-sobre-o-peixe/#google_vignette))
 
-## ESCOLHA DE MATERIAL
+## Escolha do Material
 
 ### 1. Eu preciso de uma roupa de neoprene
 
