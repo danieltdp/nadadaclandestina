@@ -119,7 +119,7 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 - A roupa que dá mais performance é a completa. Manga longa e perna comprida
 - Muita gente usa sem manga por causa da mobilidade
 - As roupas caras tem materiais especiais nessas regiões para aumentar a flexiblidade
-- A roupa mais em conta é a do Nemo. Ele faz sob medida. ☎️ 21 2241-8040 | 📱21 97307-2916
+- A roupa mais em conta é a do Nemo. Ele faz sob medida. ☎️ 21 2241-8040 \| 📱21 97307-2916
 - Quase ninguém usa, mas os macaquinhos (perna curta) são muito práticos para botar e tirar e úteis no dia a dia
 - Roupa ajuda muito no desempenho. O quando ajuda depende da sua técnica: por exemplo, se você nada com as pernas afundadas a roupa ajudará mais
 
