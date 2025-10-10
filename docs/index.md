@@ -51,8 +51,8 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 
 ### 5. Treino
 
-- Nadar do lado de uma pessoa não é fazer o mesmo treino que ela se você está fazendo um A2+ e a pessoa que você está seguindo está fazendo um A1. Faça o SEU treino e resista
-- Nadar devagar de maneira eficiente é fundamental e você só vai aprender se... nadar devagar. Veja a dica anterior
+- Nadar do lado de uma pessoa não é fazer o mesmo treino que ela! Fazer o mesmo treino que alguém e estar no mesmo nível de esforço. Não nade em A2+ atrás de alguém que está em A1. Faça o SEU treino e você progredirá mais rápido
+- Nadar devagar de maneira eficiente é fundamental e você só vai aprender se... nadar devagar. Veja a dica anterior. Eficiência vence potência.
 - Fortalecimento é fundamental. A gente não nada só com o braço, a braçada envolve costas, peitoral e muito core.
 - Fazer abnominal reta não ajuda tanto quanto treinar o core todo: musculos laterais e da lombar
 - Cotovelo alto dentro da água é a lei no 1.
