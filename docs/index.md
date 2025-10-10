@@ -10,6 +10,10 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 
 ### 2. Temperatura da água
 
+- No inverno em geral a água é **quente**
+- A temporada de águas frias costuma começar em outubro
+- Tivemos (raros) casos de 15 graus. Em geral a agua fria fica em 16 e 19 no rio de janeiro
+- Nadar na agua fria é equivalente a correr no calor. Faz parte do esporte e todos precisam de uma forma ou de outra aprender a lidar com essa certeza
 - A temperatura não é homogênea. Ás vezes está uma coisa na boia e outra na praia.
 - A temperatura não é homogênea. Ao longo o treino ela pode mudar e muito!
 - É possível sim nadar sem roupa com águas a 16 graus. Não é para todo mundo e requer alguma prática.
@@ -90,6 +94,23 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 - Outra alternativa barata são as bananinhas com açúcar. Elas tem frutose e glicose. Escolha uma com embalagem lacrada. [Essa daqui](https://www.amazon.com.br/dp/B09FFRWCPG?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1) tem um pouco menos que 20g de carbo (1 gel) por bananinha. Uma pode ser levada na touca, atrás
 - Evite a paçoca pois tem muita gordura e atrapalha a absorção do carboidrato. Mas é ótima ao final!
 - A opção mais barata é a maltodextrina, mas tem gosto ruim e é apenas um tipo de carboidrato. Vale a pena misturar com suco de uva 100% natural. Fica bom, tem dois tipos de carboidrato e sai barato!
+
+### 10. Mar
+
+- Na véspera de uma frente fia, a pressão cai, a temperatura esquenta e os ventos aumentam. É bem comum o mar ficar mexido
+- Logo após a entrada da frente fria, o mar costuma baixar
+- A máre faz com que entre e saia muita agua da baía da Guanabara. Isso geralmente define a correnteza.
+- O app [Siscorar](https://play.google.com/store/apps/details?id=br.mil.marinha.chm.siscorar&hl=pt) tem a simulação das correntes por dia e hora.
+- É muito comum perto das 10 o vento mudar de direção e aumentar. O mar piora nessas momentos
+- Dia de chuva não é um dia ruim para nadar. Você já vai se molhar de qualquer modo! 
+
+### 11. Animais marinhos
+
+- Para nadar no mar, você precisará aceitar que está num ambiente selvagem. Cada um lida com isso de uma forma diferente
+- Salpas não queimam! Elas são pequena "gelecas" redondas, menores que uma bola de gude
+- Temostartarugas pelo Rio de Janeiro, em especial na praia vermelha. Ocorrem casos de braçadas nos cascos delas. Não se assute!
+- Sim, existem tubarões na costa do rio de janeiro. Não conhecemos casos de ataque porque o ambiente é ecologicamente equilibrado e nós não somos alimento para tubarões!
+- Temos arraias, caranguejos, diversos peixes, inclusive rêmoras e pexes parecidos com tubarões (como o [bijupirá](https://www.mundoecologia.com.br/animais/bijupira-curiosidades-e-fatos-interessantes-sobre-o-peixe/#google_vignette))
 
 ## ESCOLHA DE MATERIAL
 
