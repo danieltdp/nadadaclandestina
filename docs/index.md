@@ -1,6 +1,10 @@
-# FAQ da Nadada Clandestina
+<div align="center">
+ 
+ # FAQ da Nadada Clandestina
 
-<img width="640" alt="image" src="https://github.com/user-attachments/assets/f5351663-9bfb-4fb4-8b4f-f97e12901983" />
+
+   <img width="640" alt="image" src="https://github.com/user-attachments/assets/f5351663-9bfb-4fb4-8b4f-f97e12901983" />
+</div>
 
 # DICAS
 
@@ -84,7 +88,11 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 ### 9. Alimentação intratreino
 
 - O gel é o clássico. Mas ele não tem água.
-- [Esse da Carbup](https://www.mercadolivre.com.br/carb-up-gel-super-formula-10-saches-de-30g-cada-probiotica-sabormorango-silvestre/p/MLB27306465?pdp_filters=item_id:MLB4622784368) é um dos mais baratos do mercado
+- [Carbup](https://www.mercadolivre.com.br/carb-up-gel-super-formula-10-saches-de-30g-cada-probiotica-sabormorango-silvestre/p/MLB27306465?pdp_filters=item_id:MLB4622784368) é um dos mais baratos do mercado
+<div align="center">
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/c526bcdf-c084-497b-9187-17861e46c250" />
+</div>
+
 - [O da decathlon](https://www.decathlon.com.br/energy-gel-40g-frutas-s-unidade-vermelha-8639103-decathlon/p) também é bom: barato, mais liquido, com bastante carboidrato (quase 2 doses) e uma boa reposição de sódio.
 - Cuidado com os géis que contém cafeína. Se você tomar vários, pode exceder a dose recomendada de cafeína. Considere deixar ele como última nutrição do treino ou prova
 - Você pode usar sacolés com água e colocar dentro da roupa. Escolha sacolés com plástico mais grosso. Um bom tamanho é 5x24, como [esse daqui](https://www.mercadolivre.com.br/1000-saco-plastico-bd-talher-geladinho-gelinho-sacole-5x24/p/MLB46992521?pdp_filters=item_id:MLB5311461284)
