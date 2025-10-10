@@ -1,8 +1,5 @@
 <div align="center">
- 
  # FAQ da Nadada Clandestina
-
-
    <img width="640" alt="image" src="https://github.com/user-attachments/assets/f5351663-9bfb-4fb4-8b4f-f97e12901983" />
 </div>
 
@@ -94,6 +91,9 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 </div>
 
 - [O da decathlon](https://www.decathlon.com.br/energy-gel-40g-frutas-s-unidade-vermelha-8639103-decathlon/p) também é bom: barato, mais liquido, com bastante carboidrato (quase 2 doses) e uma boa reposição de sódio.
+<div align="center">
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/bbc78cdc-c490-47c5-82a3-023f7e31fc4a" />
+</div>
 - Cuidado com os géis que contém cafeína. Se você tomar vários, pode exceder a dose recomendada de cafeína. Considere deixar ele como última nutrição do treino ou prova
 - Você pode usar sacolés com água e colocar dentro da roupa. Escolha sacolés com plástico mais grosso. Um bom tamanho é 5x24, como [esse daqui](https://www.mercadolivre.com.br/1000-saco-plastico-bd-talher-geladinho-gelinho-sacole-5x24/p/MLB46992521?pdp_filters=item_id:MLB5311461284)
 - Se você já está levando o sacolé, considere já abrir o gel e colocar dentro do sacolé. É mais fácil e rápido de tomar, mas precisa de um pouco de prática para não derramar, já que ficará líquido
