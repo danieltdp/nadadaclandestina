@@ -1,6 +1,6 @@
 <div align="center">
  # FAQ da Nadada Clandestina
-   <img width="640" alt="image" src="https://github.com/user-attachments/assets/f5351663-9bfb-4fb4-8b4f-f97e12901983" />
+   <img width="1536" alt="image" src="https://github.com/user-attachments/assets/117e07be-02d0-4648-b3e1-8c3ac19d02f6" />
 </div>
 
 # DICAS
