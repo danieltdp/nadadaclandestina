@@ -84,24 +84,43 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 
 ### Alimentação intratreino
 
-- O gel é o clássico. Mas ele não tem água.
-- [Carbup](https://www.mercadolivre.com.br/carb-up-gel-super-formula-10-saches-de-30g-cada-probiotica-sabormorango-silvestre/p/MLB27306465?pdp_filters=item_id:MLB4622784368) é um dos mais baratos do mercado
-<div align="center">
-  <img width="200" alt="image" src="https://github.com/user-attachments/assets/c526bcdf-c084-497b-9187-17861e46c250" />
-</div>
+#### Géis
 
-- [O da decathlon](https://www.decathlon.com.br/energy-gel-40g-frutas-s-unidade-vermelha-8639103-decathlon/p) também é bom: barato, mais liquido, com bastante carboidrato (quase 2 doses) e uma boa reposição de sódio.
-<div align="center">
-  <img width="200" alt="image" src="https://github.com/user-attachments/assets/bbc78cdc-c490-47c5-82a3-023f7e31fc4a" />
-</div>
-- Cuidado com os géis que contém cafeína. Se você tomar vários, pode exceder a dose recomendada de cafeína. Considere deixar ele como última nutrição do treino ou prova
-- Você pode usar sacolés com água e colocar dentro da roupa. Escolha sacolés com plástico mais grosso. Um bom tamanho é 5x24, como [esse daqui](https://www.mercadolivre.com.br/1000-saco-plastico-bd-talher-geladinho-gelinho-sacole-5x24/p/MLB46992521?pdp_filters=item_id:MLB5311461284)
-- Se você já está levando o sacolé, considere já abrir o gel e colocar dentro do sacolé. É mais fácil e rápido de tomar, mas precisa de um pouco de prática para não derramar, já que ficará líquido
-- Se você pode usar garrafas, considere diluir o gel na água da garrafa para facilitar, a menos que você queira ter o controle entre as doses de agua e gel
-- Uma boa opção pra quem usa garrafa é um [isotônico barato](https://www.mercadolivre.com.br/atlhetica-nutrition-isotonic-drink-900g-sabor-tangerina/p/MLB19561460?pdp_filters=item_id:MLB4314962542). Cada dose tem 20g de carboidrato, como um gel! Além de ter a reposíção de sódio. Com 40 reais você faz dezenas de doses.
-- Outra alternativa barata são as bananinhas com açúcar. Elas tem frutose e glicose. Escolha uma com embalagem lacrada. [Essa daqui](https://www.amazon.com.br/dp/B09FFRWCPG?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1) tem um pouco menos que 20g de carbo (1 gel) por bananinha. Uma pode ser levada na touca, atrás
-- Evite a paçoca pois tem muita gordura e atrapalha a absorção do carboidrato. Mas é ótima ao final!
-- A opção mais barata é a maltodextrina, mas tem gosto ruim e é apenas um tipo de carboidrato. Vale a pena misturar com suco de uva 100% natural. Fica bom, tem dois tipos de carboidrato e sai barato!
+O gel é o clássico. Prático, portátil, geralmente com um equilibrio de diferentes tipos de carboidrato.
+
+Mas... não tem água e pode ter pouco sódio para sua reposição
+
+Cuidado com os géis que contém cafeína. Se você tomar vários, pode exceder a dose recomendada de cafeína. Considere deixar ele como última nutrição do treino ou prova
+
+### Sacolés
+
+Sacolés com água são uma boa opção para guardar dentro da roupa. Escolha sacolés com plástico mais grosso. Um bom tamanho é 5x24, como [esse daqui](https://www.mercadolivre.com.br/1000-saco-plastico-bd-talher-geladinho-gelinho-sacole-5x24/p/MLB46992521?pdp_filters=item_id:MLB5311461284)
+
+Se você já está levando o sacolé, considere já abrir o gel e colocar dentro do sacolé. É mais fácil e rápido de tomar, mas precisa de um pouco de prática para não derramar, já que ficará líquido
+
+### Garrafas
+
+Prioriza garrafas de squeeze pois são rápidas de tomar. Evite colocá-las na boia, pois pesam e geram arrasto! A garrafa é boa se você tem suporte (um SUP ou um cooler)
+
+Se você pode usar garrafas, considere diluir o gel na água da garrafa para facilitar, a menos que você queira ter o controle entre as doses de agua e gel
+
+### Isotônicos
+
+O isotônio tem o carboidrato do gel, mas costuma ter uma dose maior de sódio (cerca de 250mg)
+
+Se você está levando sua garrafam uma boa opção é o isotônico em pó. como esse [isotônico barato](https://www.mercadolivre.com.br/atlhetica-nutrition-isotonic-drink-900g-sabor-tangerina/p/MLB19561460?pdp_filters=item_id:MLB4314962542). Cada dose tem 20g de carboidrato, como um gel! Além de ter a reposíção de sódio. Com 40 reais você faz dezenas de doses.
+
+### Bananihas, rapadura e paçoca
+
+Outra alternativa barata são as bananinhas com açúcar. Elas tem frutose e glicose. Escolha uma com embalagem lacrada, mas se prepare para às vezes tomar uma dose extra de sal do mar. [Essa daqui](https://www.amazon.com.br/dp/B09FFRWCPG?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1) tem um pouco menos que 20g de carbo (1 gel) por bananinha. Você pode levar uma na touca, atrás, para emergências
+
+Evite a paçoca pois tem muita gordura e atrapalha a absorção do carboidrato. Mas é ótima ao final!
+
+Evite a rapadura porque ela demora para ser mastigada. A bananinha também ganha por ter dois tipos de carboidrato (aqui é apenas glicose e já quebrada)
+
+### Maltodextrina
+
+É a opção [mais barata]https://www.mercadolivre.com.br/maltodextrina-1kg-100-pura-soldiers-nutrition/p/MLB33146059?pdp_filters=item_id:MLB4758231304#is_advertising=true&searchVariation=MLB33146059&backend_model=search-backend&position=2&search_layout=grid&type=pad&tracking_id=e99e7bac-933c-45b7-8f63-ab7817294361&ad_domain=VQCATCORE_LST&ad_position=2&ad_click_id=OTM0NTU2MDAtM2U2OC00YzA5LWI5MmItNTNkZTFmNDIzNDY2!  Infelixmente  tem gosto ruim e também é apenas um tipo de carboidrato. . Vale a pena misturar com suco de uva 100% natural. Fica bom, tem dois tipos de carboidrato e sai barato! 200ml de suco + 1 dose de malto na garrafa, podendo diluir com mais água
 
 ### Mar
 
@@ -166,4 +185,25 @@ Link na amazon americana. Você escolhe o grau de cada olho nos campos onde cost
 
 - [kpaloa para águas abertas](https://www.kpaloa.com/aguas-abertas) é sem dúvida a melhor (e mais cara) opção. Além de dar muita potência, **ele boia**. Isso pode te salvar muitos reais durante um caldo na arrebentação
 - [Speedo Powerfin](https://www.amazon.com.br/Nadadeira-Powerfin-Azul-Tam-Speedo/dp/B07G6BD485/ref=sr_1_6?crid=2302R0MMS3ZI7&dib=eyJ2IjoiMSJ9.McEnmd_g7OFBtJr0nMghchuB0jMvFgFdQ8SYU4DcG8PUYzbS3BWUrb0iIdNFIr-b6PYN1JeNxJftqRq9tdBZjHEBJJ2GjXpEQEnMU5zM1fODHC9j9XY2zwtNq2bN-owqli_o5-9PMmrYBWU5d3Y4_D7JhQhiMWBkKVIA4Z40KuOs-QNxzbleYZ6hTfH5AoJp2DM4TqSlmhlBiD39l8zV0tWpR-QcG9HtsxFHn9k8qMAtlcG8VTjtck-utq8SV_Ksu9TDAw7oFC-cRgt8udFnhA3QeUHQxCTqwHN66fO3xYM.tDBd4kvJmoJ9No2_mCMM7jLF23JuqA4sp6TSejk36gU&dib_tag=se&keywords=kpaloa+nadadeira&qid=1760102278&sprefix=kpa%2Caps%2C324&sr=8-6&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678) é um pé de pato mais em conta, **que não boia**, mas é bastante usado. Ele traz menos potência, mas tem uma caracaterística interessante: ajuda mais na subida da pernada do que na descida! Muitos nadadores só chutam e não puxam o pé de volta. Esse pé de pato pode ajudar a corrigir isso.
+
+### Alimentação
+
+#### Carbup
+
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/c526bcdf-c084-497b-9187-17861e46c250" />
+
+É um dos mais baratos do mercado
+
+Link no [Mercado Livre](https://www.mercadolivre.com.br/carb-up-gel-super-formula-10-saches-de-30g-cada-probiotica-sabormorango-silvestre/p/MLB27306465?pdp_filters=item_id:MLB4622784368)
+
+
+#### Decathlon
+
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/bbc78cdc-c490-47c5-82a3-023f7e31fc4a" />
+
+Também é bom: barato, mais liquido, com bastante carboidrato (quase 2 doses) e uma boa reposição de sódio.
+
+Link na [Decathlon](https://www.decathlon.com.br/energy-gel-40g-frutas-s-unidade-vermelha-8639103-decathlon/p)
+
+
 
