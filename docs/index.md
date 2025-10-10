@@ -1,5 +1,6 @@
+# FAQ de Águas Abertas
+
 <div align="center">
- # FAQ da Nadada Clandestina
    <img width="1536" alt="image" src="https://github.com/user-attachments/assets/117e07be-02d0-4648-b3e1-8c3ac19d02f6" />
 </div>
 
