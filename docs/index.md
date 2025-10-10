@@ -32,6 +32,12 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 ### 4. Uso de óculos
 
 - Se a lente estiver com gordura, o óculos vai embaçar mais
+- Lentes espelhadas são boas para dia de sol forte, mas podem ficar escuras para dias nublados
+- Lentes escuras são boas para dias com sol
+- Lentes brancas e amarelas são boas para dias sem sol
+- Lentes azuis são intermediárias e servem de coringa
+- Lentes polarizadas são incríveis em casos de sol extremos + sombras ou na contra luz. Mas cuidado que a polarização costuma ser uma película do lado de fora e um pouco frágil
+- A depender dos seus horários, vale a pena ter dois pares, um para cada caso (escuro e azul por exemplo)
 - Lave com sabão e cuidado para tirar bem. Há vários casos de nadadores com lesão na córnea porque deixarm o sabão de propósito na lente na intenção de evitar o embaçamento
 - O melhor produto para lavar o óculo é shampoo de bebê, aqueles que não ardem os olhos. Mas cuidado porque mesmo esses, em excesso, podem de maxucar
 - Seque o óculos com a lente virada para baixo, para evitar uma "poça" dentro dele
