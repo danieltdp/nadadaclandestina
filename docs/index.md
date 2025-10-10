@@ -66,12 +66,12 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 - Não coloque na parte estanque coisas que você vai precisar durante o treino/prova. No abre e fecha vai entrar água e ela vai começar a fazer mais arrasto
 - Boia, assim como roupa, são mecanismos de segurança. Use e abuse delas para ficar mais seguro
 
-  ### 8. Toucas
+### 8. Toucas
 
 - No mar você precisa estar visível. **NUNCA** use uma touca preta! Escolha cores com bom contraste contra o mar e o céu!
 - Cubra metade de ordelha com a touca. Reduz o arrasto um pouquinho e mantém a sua audição afinada para ouvir qualquer coisa
 
-### 7. Alimentação intratreino
+### 9. Alimentação intratreino
 
 - O gel é o clássico. Mas ele não tem água.
 - [Esse da Carbup](https://www.mercadolivre.com.br/carb-up-gel-super-formula-10-saches-de-30g-cada-probiotica-sabormorango-silvestre/p/MLB27306465?pdp_filters=item_id:MLB4622784368) é um dos mais baratos do mercado
