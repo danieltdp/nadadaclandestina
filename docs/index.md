@@ -46,7 +46,7 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 - Fortalecimento é fundamental. A gente não nada só com o braço, a braçada envolve costas, peitoral e muito core.
 - Fazer abnominal reta não ajuda tanto quanto treinar o core todo: musculos laterais e da lombar
 - Cotovelo alto dentro da água é a lei no 1.
-- Nadar certo pode ser desafiador porque seus músculos que nadam errado estão treinados e os que você precisa para nadar certo não! Nade mais devagar, mas não saia da posição e faça fortalecimento para preparar esses músculos destreinados
+- Nadar certo pode ser desafiador porque seus músculos usados para nadar errado estão treinados e os que você precisa para nadar certo não estão! Nade mais devagar, **mas não saia da posição**! Deixa o coleguinha ir embora e siga treinando a técnica. Faça também fortalecimento para preparar esses músculos destreinados
 
 ## 6. Dicas de relógio
 
@@ -56,6 +56,20 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 - Nadadores com cadência de braçadas baixa tendem a obter um resultado pior no mapinha. É a vida!
 - Como alguns nadadores tem braçadas assimétricas, alguns encontram melhores resultados trocando o relógio de pulso. Experimente
 - Natação em piscina não usa GPS, é outro esquema. Usar a opção de piscina no mar ou o contrário derá errado com 100% de certeza
+
+## 7. Dicas de intratreino
+
+- O gel é o clássico. Mas ele não tem água.
+- [Esse da Carbup](https://www.mercadolivre.com.br/carb-up-gel-super-formula-10-saches-de-30g-cada-probiotica-sabormorango-silvestre/p/MLB27306465?pdp_filters=item_id:MLB4622784368) é um dos mais baratos do mercado
+- [O da decathlon](https://www.decathlon.com.br/energy-gel-40g-frutas-s-unidade-vermelha-8639103-decathlon/p) também é bom: barato, mais liquido, com bastante carboidrato (quase 2 doses) e uma boa reposição de sódio.
+- Cuidado com os géis que contém cafeína. Se você tomar vários, pode exceder a dose recomendada de cafeína. Considere deixar ele como última nutrição do treino ou prova
+- Você pode usar sacolés com água e colocar dentro da roupa. Escolha sacolés com plástico mais grosso. Um bom tamanho é 5x24, como [esse daqui](https://www.mercadolivre.com.br/1000-saco-plastico-bd-talher-geladinho-gelinho-sacole-5x24/p/MLB46992521?pdp_filters=item_id:MLB5311461284)
+- Se você já está levando o sacolé, considere já abrir o gel e colocar dentro do sacolé. É mais fácil e rápido de tomar, mas precisa de um pouco de prática para não derramar, já que ficará líquido
+- Se você pode usar garrafas, considere diluir o gel na água da garrafa para facilitar, a menos que você queira ter o controle entre as doses de agua e gel
+- Uma boa opção pra quem usa garrafa é um [isotônico barato](https://www.mercadolivre.com.br/atlhetica-nutrition-isotonic-drink-900g-sabor-tangerina/p/MLB19561460?pdp_filters=item_id:MLB4314962542). Cada dose tem 20g de carboidrato, como um gel! Além de ter a reposíção de sódio. Com 40 reais você faz dezenas de doses.
+- Outra alternativa barata são as bananinhas com açúcar. Elas tem frutose e glicose. Escolha uma com embalagem lacrada. [Essa daqui](https://www.amazon.com.br/dp/B09FFRWCPG?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1) tem um pouco menos que 20g de carbo (1 gel) por bananinha. Uma pode ser levada na touca, atrás
+- Evite a paçoca pois tem muita gordura e atrapalha a absorção do carboidrato. Mas é ótima ao final!
+- A opção mais barata é a maltodextrina, mas tem gosto ruim e é apenas um tipo de carboidrato. Vale a pena misturar com suco de uva 100% natural. Fica bom, tem dois tipos de carboidrato e sai barato!
 
 ## MATERIAL
 
@@ -101,8 +115,8 @@ Link na amazon americana. Você escolhe o grau de cada olho nos campos onde cost
 
 ### 8. Preciso de um Pé de Pato
 
-- [kpaloa para águas abertas](https://www.kpaloa.com/aguas-abertas). É sem dúvida a melhor (e mais cara) opção. Além de dar muita potência, **ele boia**. Isso pode te salvar muitos reais durante um caldo na arrebentação
-- [Speedo Powerfin](https://www.amazon.com.br/Nadadeira-Powerfin-Azul-Tam-Speedo/dp/B07G6BD485/ref=sr_1_6?crid=2302R0MMS3ZI7&dib=eyJ2IjoiMSJ9.McEnmd_g7OFBtJr0nMghchuB0jMvFgFdQ8SYU4DcG8PUYzbS3BWUrb0iIdNFIr-b6PYN1JeNxJftqRq9tdBZjHEBJJ2GjXpEQEnMU5zM1fODHC9j9XY2zwtNq2bN-owqli_o5-9PMmrYBWU5d3Y4_D7JhQhiMWBkKVIA4Z40KuOs-QNxzbleYZ6hTfH5AoJp2DM4TqSlmhlBiD39l8zV0tWpR-QcG9HtsxFHn9k8qMAtlcG8VTjtck-utq8SV_Ksu9TDAw7oFC-cRgt8udFnhA3QeUHQxCTqwHN66fO3xYM.tDBd4kvJmoJ9No2_mCMM7jLF23JuqA4sp6TSejk36gU&dib_tag=se&keywords=kpaloa+nadadeira&qid=1760102278&sprefix=kpa%2Caps%2C324&sr=8-6&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678) é um pé de pato mais em conta, **que não boia**, mas é bastante usado. Ele traz menos potência, mas tem uma caracaterística interessante: ajuda mais na subida da pernada do que na descida! Muitos nadadotes só chutam, mas não puxam o pé de volta e esse pé de pato pode corrigir isso.
+- [kpaloa para águas abertas](https://www.kpaloa.com/aguas-abertas) é sem dúvida a melhor (e mais cara) opção. Além de dar muita potência, **ele boia**. Isso pode te salvar muitos reais durante um caldo na arrebentação
+- [Speedo Powerfin](https://www.amazon.com.br/Nadadeira-Powerfin-Azul-Tam-Speedo/dp/B07G6BD485/ref=sr_1_6?crid=2302R0MMS3ZI7&dib=eyJ2IjoiMSJ9.McEnmd_g7OFBtJr0nMghchuB0jMvFgFdQ8SYU4DcG8PUYzbS3BWUrb0iIdNFIr-b6PYN1JeNxJftqRq9tdBZjHEBJJ2GjXpEQEnMU5zM1fODHC9j9XY2zwtNq2bN-owqli_o5-9PMmrYBWU5d3Y4_D7JhQhiMWBkKVIA4Z40KuOs-QNxzbleYZ6hTfH5AoJp2DM4TqSlmhlBiD39l8zV0tWpR-QcG9HtsxFHn9k8qMAtlcG8VTjtck-utq8SV_Ksu9TDAw7oFC-cRgt8udFnhA3QeUHQxCTqwHN66fO3xYM.tDBd4kvJmoJ9No2_mCMM7jLF23JuqA4sp6TSejk36gU&dib_tag=se&keywords=kpaloa+nadadeira&qid=1760102278&sprefix=kpa%2Caps%2C324&sr=8-6&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678) é um pé de pato mais em conta, **que não boia**, mas é bastante usado. Ele traz menos potência, mas tem uma caracaterística interessante: ajuda mais na subida da pernada do que na descida! Muitos nadadores só chutam e não puxam o pé de volta. Esse pé de pato pode ajudar a corrigir isso.
 
 ### 9. O que é a Nadada Clandestina?
 
