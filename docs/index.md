@@ -100,7 +100,7 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 
 [Synergy na Amazon.com](https://www.amazon.com/Synergy-Triathlon-Wetsuit-2mm-Sleeveless/dp/B0DTMG7Y5S/ref=sr_1_24?crid=2203TSMC4S2EB&dib=eyJ2IjoiMSJ9.CH31ayeioobOMHoSlZ8FWLXF2XJ_pGk-kujCS8MEmVDgRXd347ahdhwOZeUgNnbbLo1x3PCfMOisfZTzlBL0jehPtP_CMweUUXFypP0g6lk2iAB1WsJoibficTaCFUs2ICvCSnoMys6Y6z6TEj6aJzk2L1zCGdjpgQ2pMhfvTI-ObPB-_9WTgbSKAPaLzW08jpwEyLIb2yBJFWGCrfGmTKU01Nmvb4r79xTa8GWAfhvVtdgYtdAplzJ8iPkQQtU5nGlfuHWlQKbp9MjfNPAtg4sHxh6oNpjaJ4saH4M_VGI.4U5iEOGrm-LNYnrwq5XPiyCf-_ZZ-hcMBw9G88CMesI&dib_tag=se&keywords=synergy+tri+suit&qid=1759859896&sprefix=synergy+tr%2Caps%2C370&sr=8-24)
 
-### 7. Eu preciso de um óculos de natação
+### 2. Eu preciso de um óculos de natação
 
 Óculos existem de vários tipos
 
@@ -114,25 +114,21 @@ Muita visibilidade, pouco conforto
  - [Decathlon Sueco 900](https://www.decathlon.com.br/oculos-de-natacao-adulto-suecos-900-ajustavel-vermelho-8547673-nabaiji/p)
  - [Tyr Socket Rocket](https://www.amazon.com.br/TYR-Socket-Rockets-corrida-met%C3%A1licos/dp/B001MWRRMO?th=1&psc=1)
 
-##### Lente flexível
+#### Lente flexível
 
 Óculos com lente maleável, bons para não machucar naquele momento de contato físico
 
 - [Track and Field](https://www.tf.com.br/oculos-de-natacao-preto/p)
 - [Tyr Nest Pro](https://www.amazon.com.br/TYR-LGNST-Nest-Pro-%C3%93culos/dp/B001MWRRVA?th=1)
 
-##### Correção de grau
+#### Correção de grau
 
 Link na amazon americana. Você escolhe o grau de cada olho nos campos onde costuma selecionar tamanho, cor, voltagem etc
 
 - [Speedo Optical Vanquisher](https://www.amazon.com/Speedo-Vanquisher-Optical-Goggle-Smoke/dp/B07H3LJ23W?pd_rd_w=Xc0BD&content-id=amzn1.sym.52548f63-aa6f-47d3-941a-d69d44966d80&pf_rd_p=52548f63-aa6f-47d3-941a-d69d44966d80&pf_rd_r=GPVD8YW1522527Y0HNQ2&pd_rd_wg=az862&pd_rd_r=f8ee8bb2-9c34-43c2-a1d8-0def75d687ca&pd_rd_i=B07H3LJ23W&ref_=pd_bap_d_grid_rp_hxwhrp_sspa_dk_bia_0_1_ec_pd_nav_hcs_rp_3_i&th=1)
 
-### 8. Preciso de um Pé de Pato
+### 3. Preciso de um Pé de Pato
 
 - [kpaloa para águas abertas](https://www.kpaloa.com/aguas-abertas) é sem dúvida a melhor (e mais cara) opção. Além de dar muita potência, **ele boia**. Isso pode te salvar muitos reais durante um caldo na arrebentação
 - [Speedo Powerfin](https://www.amazon.com.br/Nadadeira-Powerfin-Azul-Tam-Speedo/dp/B07G6BD485/ref=sr_1_6?crid=2302R0MMS3ZI7&dib=eyJ2IjoiMSJ9.McEnmd_g7OFBtJr0nMghchuB0jMvFgFdQ8SYU4DcG8PUYzbS3BWUrb0iIdNFIr-b6PYN1JeNxJftqRq9tdBZjHEBJJ2GjXpEQEnMU5zM1fODHC9j9XY2zwtNq2bN-owqli_o5-9PMmrYBWU5d3Y4_D7JhQhiMWBkKVIA4Z40KuOs-QNxzbleYZ6hTfH5AoJp2DM4TqSlmhlBiD39l8zV0tWpR-QcG9HtsxFHn9k8qMAtlcG8VTjtck-utq8SV_Ksu9TDAw7oFC-cRgt8udFnhA3QeUHQxCTqwHN66fO3xYM.tDBd4kvJmoJ9No2_mCMM7jLF23JuqA4sp6TSejk36gU&dib_tag=se&keywords=kpaloa+nadadeira&qid=1760102278&sprefix=kpa%2Caps%2C324&sr=8-6&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678) é um pé de pato mais em conta, **que não boia**, mas é bastante usado. Ele traz menos potência, mas tem uma caracaterística interessante: ajuda mais na subida da pernada do que na descida! Muitos nadadores só chutam e não puxam o pé de volta. Esse pé de pato pode ajudar a corrigir isso.
-
-### 9. O que é a Nadada Clandestina?
-
-### 10. Quem são os Clandestinos?
 
