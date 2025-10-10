@@ -120,7 +120,7 @@ Evite a rapadura porque ela demora para ser mastigada. A bananinha também ganha
 
 ### Maltodextrina
 
-É a opção [mais barata]https://www.mercadolivre.com.br/maltodextrina-1kg-100-pura-soldiers-nutrition/p/MLB33146059?pdp_filters=item_id:MLB4758231304#is_advertising=true&searchVariation=MLB33146059&backend_model=search-backend&position=2&search_layout=grid&type=pad&tracking_id=e99e7bac-933c-45b7-8f63-ab7817294361&ad_domain=VQCATCORE_LST&ad_position=2&ad_click_id=OTM0NTU2MDAtM2U2OC00YzA5LWI5MmItNTNkZTFmNDIzNDY2!  Infelixmente  tem gosto ruim e também é apenas um tipo de carboidrato. . Vale a pena misturar com suco de uva 100% natural. Fica bom, tem dois tipos de carboidrato e sai barato! 200ml de suco + 1 dose de malto na garrafa, podendo diluir com mais água
+É a opção [mais barata](https://www.mercadolivre.com.br/maltodextrina-1kg-100-pura-soldiers-nutrition/p/MLB33146059?pdp_filters=item_id:MLB4758231304#is_advertising=true&searchVariation=MLB33146059&backend_model=search-backend&position=2&search_layout=grid&type=pad&tracking_id=e99e7bac-933c-45b7-8f63-ab7817294361&ad_domain=VQCATCORE_LST&ad_position=2&ad_click_id=OTM0NTU2MDAtM2U2OC00YzA5LWI5MmItNTNkZTFmNDIzNDY2)!  Infelixmente  tem gosto ruim e também é apenas um tipo de carboidrato. . Vale a pena misturar com suco de uva 100% natural. Fica bom, tem dois tipos de carboidrato e sai barato! 200ml de suco + 1 dose de malto na garrafa, podendo diluir com mais água
 
 ### Mar
 
