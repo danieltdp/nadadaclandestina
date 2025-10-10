@@ -8,7 +8,7 @@
 
 Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-4 e RJ-3, campos "Temperatura Média da Água"
 
-### 2. Dicas sobre a temperatura da água
+### 2. Temperatura da água
 
 - A temperatura não é homogênea. Ás vezes está uma coisa na boia e outra na praia.
 - A temperatura não é homogênea. Ao longo o treino ela pode mudar e muito!
@@ -22,14 +22,14 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 - Use duas toucas de natação. Perdemos muito calor pela cabeça! Isso não vai tirar o desconforto da água gelada na pela (veja o tópico anterior), mas reduz a perda de calor
 - Se possível, resista ao impulso de tirar os braços e a cabeça da água nos momentos iniciais. Se você não ficar com os membros na água, você só vai retardar a adaptação
 
-### 3. Dicas para o uso das roupas
+### 3. Uso de neoprene
 
 - Coloque um saco plástico no pé para vestir. Ela vai entrar mais fácil!
 - Use vaselina (ou análogo), **no mínimo** em volta de todo o pescoço. Tem gente que assa em outros pontos
 - Não guarde a roupa do avesso, desgasta a borracha
 - Se puder, guarde num cabide grosso, como os de terno. Isso reduz a pressão num ponto específico da roupa
 
-### 4. Dicas sobre o uso de óculos
+### 4. Uso de óculos
 
 - Se a lente estiver com gordura, o óculos vai embaçar mais
 - Lave com sabão e cuidado para tirar bem. Há vários casos de nadadores com lesão na córnea porque deixarm o sabão de propósito na lente na intenção de evitar o embaçamento
@@ -39,7 +39,7 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 - Se a película danificar e ficar fosca, você sempre pode comprar outro... Mas, se você quer "salvar" o óculos, use um pano de microfibra para esfregar a camada que está semi-decomposta e pegajosa. Seu óculos não tem mais anti-embaçante, mas se você mantiver ele sem gordura e sempre limpo, vai dar tudo certo
 - Lavar o óculos na véspera do treino, de noite, por algum motivo misterioso, ajuda ele a não embaçar 
 
-### 5. Dicas de treino
+### 5. Treino
 
 - Nadar do lado de uma pessoa não é fazer o mesmo treino que ela se você está fazendo um A2+ e a pessoa que você está seguindo está fazendo um A1. Faça o SEU treino e resista
 - Nadar devagar de maneira eficiente é fundamental e você só vai aprender se... nadar devagar. Veja a dica anterior
@@ -48,7 +48,7 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 - Cotovelo alto dentro da água é a lei no 1.
 - Nadar certo pode ser desafiador porque seus músculos usados para nadar errado estão treinados e os que você precisa para nadar certo não estão! Nade mais devagar, **mas não saia da posição**! Deixa o coleguinha ir embora e siga treinando a técnica. Faça também fortalecimento para preparar esses músculos destreinados
 
-## 6. Dicas de relógio
+### 6. Relógio
 
 - O GPS é uma conexão de rádio entre seu relógio e os satélites. Ele PRECISA achar os satélites antes do treino começar. Conecte antes de entrar na água. Isso pode melhorar o seu mapinha
 - O GPS perde o sinal **toda vez que o relógio entra na água**. Se você ficar parado muito tempo, ele se perde mais ainda e vale a pena tirar ele da água um pouco antes de reiniciar o treino. Isso pode melhorar seu mapinha
@@ -56,8 +56,22 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 - Nadadores com cadência de braçadas baixa tendem a obter um resultado pior no mapinha. É a vida!
 - Como alguns nadadores tem braçadas assimétricas, alguns encontram melhores resultados trocando o relógio de pulso. Experimente
 - Natação em piscina não usa GPS, é outro esquema. Usar a opção de piscina no mar ou o contrário derá errado com 100% de certeza
+- O melhor mapinha você consegue colocando o relógio dentro da touca, pois o sinal do GPs fica firme o tempo todo. **Mas atenção** para não perder ele ao tirar a touca!!!! Faça por sua própia conta e risco
 
-## 7. Dicas de intratreino
+### 7. Boias
+
+- Boa boa é boia leve, bem cheia e hidrdinâmica
+- Encha ela bem porque no contato com a água mais fria o ar vai reduzir de volume e ela vai murchar um pouco
+- Se você vai colocar coisas dentro da boia, considere que isso vai aumentar o arrasto dela. Cada onda que bater em você depois vai bater na boia de novo e te freiar duas vezes
+- Não coloque na parte estanque coisas que você vai precisar durante o treino/prova. No abre e fecha vai entrar água e ela vai começar a fazer mais arrasto
+- Boia, assim como roupa, são mecanismos de segurança. Use e abuse delas para ficar mais seguro
+
+  ### 8. Toucas
+
+- No mar você precisa estar visível. **NUNCA** use uma touca preta! Escolha cores com bom contraste contra o mar e o céu!
+- Cubra metade de ordelha com a touca. Reduz o arrasto um pouquinho e mantém a sua audição afinada para ouvir qualquer coisa
+
+### 7. Alimentação intratreino
 
 - O gel é o clássico. Mas ele não tem água.
 - [Esse da Carbup](https://www.mercadolivre.com.br/carb-up-gel-super-formula-10-saches-de-30g-cada-probiotica-sabormorango-silvestre/p/MLB27306465?pdp_filters=item_id:MLB4622784368) é um dos mais baratos do mercado
@@ -71,7 +85,7 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 - Evite a paçoca pois tem muita gordura e atrapalha a absorção do carboidrato. Mas é ótima ao final!
 - A opção mais barata é a maltodextrina, mas tem gosto ruim e é apenas um tipo de carboidrato. Vale a pena misturar com suco de uva 100% natural. Fica bom, tem dois tipos de carboidrato e sai barato!
 
-## MATERIAL
+## ESCOLHA DE MATERIAL
 
 ### 1. Eu preciso de uma roupa de neoprene
 
@@ -90,7 +104,7 @@ Vá no [site no SIMCOSTA](https://www.simcosta.furg.br/home) e veja as boias RJ-
 
 Óculos existem de vários tipos
 
-#### Óculos suecos
+##### Óculos suecos
 
 Muita visibilidade, pouco conforto
 
@@ -100,14 +114,14 @@ Muita visibilidade, pouco conforto
  - [Decathlon Sueco 900](https://www.decathlon.com.br/oculos-de-natacao-adulto-suecos-900-ajustavel-vermelho-8547673-nabaiji/p)
  - [Tyr Socket Rocket](https://www.amazon.com.br/TYR-Socket-Rockets-corrida-met%C3%A1licos/dp/B001MWRRMO?th=1&psc=1)
 
-#### Lente flexível
+##### Lente flexível
 
 Óculos com lente maleável, bons para não machucar naquele momento de contato físico
 
 - [Track and Field](https://www.tf.com.br/oculos-de-natacao-preto/p)
 - [Tyr Nest Pro](https://www.amazon.com.br/TYR-LGNST-Nest-Pro-%C3%93culos/dp/B001MWRRVA?th=1)
 
-#### Correção de grau
+##### Correção de grau
 
 Link na amazon americana. Você escolhe o grau de cada olho nos campos onde costuma selecionar tamanho, cor, voltagem etc
 
